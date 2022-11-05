@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning backend with python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me here in github or in carloos15lcc@gmail.com
+- 📫 How to reach me:
+-- here in github or in carloos15lcc@gmail.com
 
 <!---
 carlosalg/carlosalg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
