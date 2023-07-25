@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @carlosalg
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning backend with python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development
+- 💞️ I’m looking to collaborate on Projects using Golang or Rust
 - 📫 How to reach me:
 -- here in github or in carloos15lcc@gmail.com
 
