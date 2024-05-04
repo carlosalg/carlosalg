@@ -1,6 +1,6 @@
 - 👋 Hey there, I'm Carlos (@carlosalg)
 - 👀 Passionate about Software Development
-- 💼 Currently seeking opportunities to contribute to projects using Golang or Rust
+- 💼 Currently seeking opportunities to contribute to projects using Golang, Rust or C++
 - 📫 You can reach me here on GitHub or drop me a line at carloos15lcc@gmail.com
 
 
