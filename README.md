@@ -14,13 +14,13 @@ Soy un apasionado por la ciberseguridad y el desarrollo de software, con un enfo
 
 🛠️ Tecnologías y Herramientas
 
-Lenguajes: Python, Rust, Golang, C++, Bash, Elixir
+Lenguajes: Python, Golang, C/C++, Bash, Elixir
 
 Hacking y Seguridad: TryHackMe, Hack The Box, Nmap, Metasploit, Burp Suite
 
 Automatización y Scripting: Python, Bash
 
-Infraestructura y Redes: Linux, Docker, Wireshark, Ansible
+Infraestructura y Redes: Linux, Docker, Wireshark
 
 
 📫 Contacto
